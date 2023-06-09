@@ -1,0 +1,10 @@
+# Ignore Everything
+/*
+
+# Except for these
+!/.gitignore
+!/Assets
+!/Packages
+!/ProjectSettings
+!/CustomData
+CustomData/Logs/*

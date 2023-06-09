@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67ce13c8f868bef4085a12afffea07df, type: 3}
+  m_Name: Missle
+  m_EditorClassIdentifier: 
+  <Prefab>k__BackingField: {fileID: 3774788495140888732, guid: 6f8570a9c8bd94141a2177e3b7a7762c, type: 3}
+  <Radius>k__BackingField: 10
+  <Damage>k__BackingField: 2
+  <MaxTargets>k__BackingField: 7
+  <BufferSize>k__BackingField: 10
+  <LifeTimeSeconds>k__BackingField: 3
+  <Indent>k__BackingField: {x: 0, y: 1.2}
+  <MovementData>k__BackingField: {fileID: 11400000, guid: b4eb794228eae924bab7879ad54a297b, type: 2}

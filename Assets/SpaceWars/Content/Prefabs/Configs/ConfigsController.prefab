@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5111400552282330213
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5168973553041342542}
+  - component: {fileID: -5424885884989465725}
+  m_Layer: 0
+  m_Name: ConfigsController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5168973553041342542
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5111400552282330213}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-5424885884989465725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5111400552282330213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ce663cca65af76488e3d5f9c88438e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <DifficultData>k__BackingField: {fileID: 11400000, guid: e3b9e98a864fd834faa2accd478f070a, type: 2}
+  <LaserData>k__BackingField: {fileID: 11400000, guid: 046cc70b97974274c97c96f5078d6f4d, type: 2}
+  <MissleLauncherData>k__BackingField: {fileID: 11400000, guid: 43d6de2b40cd5264a8bd0e240d224fb6, type: 2}
+  <MachinegunData>k__BackingField: {fileID: 11400000, guid: aea5e2a1239191b459d31c736d2fb63d, type: 2}
+  <MissleData>k__BackingField: {fileID: 11400000, guid: 910b56417c217c24e8b8f4487efe092b, type: 2}
+  <BulletData>k__BackingField: {fileID: 11400000, guid: c42e14e109b033f4c89481cba434dbd3, type: 2}
+  <PlayerData>k__BackingField: {fileID: 11400000, guid: 6edeeef60a7e60d4f866a84a630663ba, type: 2}
+  <EnemyData>k__BackingField: {fileID: 11400000, guid: 0ff7190da00c66a4599292cb463ea48c, type: 2}
+  <AsteroidData>k__BackingField: {fileID: 11400000, guid: 6c340ae02450c3d4a8c80e25801e05cb, type: 2}

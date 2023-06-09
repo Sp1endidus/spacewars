@@ -1,0 +1,20 @@
+{
+    "name": "Runtime.Core",
+    "rootNamespace": "SpaceWars.Runtime.Core",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:9641ab6f7c759d04e9c375ef21450330",
+        "GUID:4c4c2686959fd39438956628e7e580f5",
+        "GUID:78fa44be5ec31b14ab4ecdbfbfbc682c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
